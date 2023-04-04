@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+}
+
+.button{
+    border-width: 2px;
+    height: 30px;
+    width: 100px;
+    border-radius: 8px;
+    cursor: pointer;
+}
